@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)@s0c&n$#k+qacj=gv3nf($&^1$eywca%zby$2b7mudf!j$i(4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['185-181-9-183.cloud-xip.com']
+ALLOWED_HOSTS = ['185-181-9-183.cloud-xip.com','localhost','127.0.0.1','0.0.0.0']
 
 
 # Application definition
